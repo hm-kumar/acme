@@ -4,9 +4,6 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/demo"
-    },
-    {
       "path": "./apps/auth-e2e"
     },
     {
@@ -23,6 +20,9 @@
     },
     {
       "path": "./apps/analytics"
+    },
+    {
+      "path": "./libs"
     }
   ]
 }
