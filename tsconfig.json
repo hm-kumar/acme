@@ -5,6 +5,24 @@
   "references": [
     {
       "path": "./apps/demo"
+    },
+    {
+      "path": "./apps/auth-e2e"
+    },
+    {
+      "path": "./apps/auth"
+    },
+    {
+      "path": "./apps/skills-e2e"
+    },
+    {
+      "path": "./apps/skills"
+    },
+    {
+      "path": "./apps/analytics-e2e"
+    },
+    {
+      "path": "./apps/analytics"
     }
   ]
 }
